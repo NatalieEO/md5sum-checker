@@ -1,6 +1,6 @@
 #!/usr/bin/env cwl-runner
 
-class: Workflow
+class: Tool
 id: Md5sum
 label: Simple md5sum tool
 cwlVersion: v1.0
